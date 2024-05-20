@@ -13,7 +13,7 @@ namespace Potok
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();// Инициализируем компоненты формы
         }
 
         private void button1_Click(object sender, EventArgs e)
