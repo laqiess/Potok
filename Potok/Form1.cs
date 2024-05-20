@@ -121,7 +121,7 @@ namespace Potok
 
         private void button2_Click(object sender, EventArgs e)
         {
-            calculating = false;
+            calculating = false;// Устанавливаем флаг calculating в false при нажатии на кнопку button2
         }
 
         
